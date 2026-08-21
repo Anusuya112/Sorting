@@ -1,3 +1,5 @@
+Program:
+
 class QuickSort {
     static void quickSort(int[] a, int low, int high) {
         if (low < high) {
@@ -34,3 +36,9 @@ class QuickSort {
             System.out.print(x + " ");
     }
 }
+
+Output:
+
+2 3 4 5 8 
+
+=== Code Execution Successful ===
