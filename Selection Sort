@@ -1,3 +1,5 @@
+Program:
+
 class SelectionSort {
     public static void main(String[] args) {
         int[] a = {5, 3, 8, 4, 2};
@@ -19,3 +21,9 @@ class SelectionSort {
             System.out.print(x + " ");
     }
 }
+
+Output:
+
+2 3 4 5 8 
+
+=== Code Execution Successful ===
