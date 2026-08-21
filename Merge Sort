@@ -1,3 +1,5 @@
+Program:
+
 class MergeSort {
     static void mergeSort(int[] a, int l, int r) {
         if (l < r) {
@@ -36,3 +38,9 @@ class MergeSort {
             System.out.print(x + " ");
     }
 }
+
+Output:
+
+2 3 4 5 8 
+
+=== Code Execution Successful ===
